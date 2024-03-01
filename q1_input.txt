@@ -1,0 +1,6 @@
+no_of_variables 2
+no_of_constraints 2
+lower_limit x1 13
+upper_limit x1 20
+lower_limit x2 0
+upper_limit x2 4
