@@ -1,0 +1,88 @@
+R value for present sequence is 2.000000, x0 is : 18.000000 	1.000000 	
+#It	 F(x)	 x1 	F'(x1) 	x2 	F'(x2) 	g1 	g2 	Angle	||grad_f(x)||	||x(k)-x(k-1)||/||(x(k-1)||
+1	 -7520.656217	 17.822335 	192.388043 	0.000000 	1082.870654 	0.000000 	-81.957609 	0.000000	 1099.828174 	 0.056339
+
+Algorithm restart at iteration no. 1
+1	 -7520.656217	 17.822335 	183.972693 	0.000000 	1199.828330 	0.000000 	-81.957609 	0.644760	 1213.850886 	 0.000000
+The optimum value of x = ( 17.822335 	0.000000 	
+0.000000 	-81.957609 	)
+#Total number of function evaluations: 22
+
+R value for present sequence is 20.000000, x0 is : 17.822335 	0.000000 	
+#It	 F(x)	 x1 	F'(x1) 	x2 	F'(x2) 	g1 	g2 	Angle	||grad_f(x)||	||x(k)-x(k-1)||/||(x(k-1)||
+1	 -7514.324845	 17.822335 	187.625879 	0.000000 	1198.283295 	0.000000 	-81.957609 	0.000000	 1212.883475 	 0.000000
+The optimum value of x = ( 17.822335 	0.000000 	
+0.000000 	-81.957609 	)
+#Total number of function evaluations: 9
+
+R value for present sequence is 200.000000, x0 is : 17.822335 	0.000000 	
+#It	 F(x)	 x1 	F'(x1) 	x2 	F'(x2) 	g1 	g2 	Angle	||grad_f(x)||	||x(k)-x(k-1)||/||(x(k-1)||
+1	 -7451.011125	 17.822335 	224.157741 	0.000000 	1182.832936 	0.000000 	-81.957609 	0.000000	 1203.885563 	 0.000000
+The optimum value of x = ( 17.822335 	0.000000 	
+0.000000 	-81.957609 	)
+#Total number of function evaluations: 9
+
+R value for present sequence is 2000.000000, x0 is : 17.822335 	0.000000 	
+#It	 F(x)	 x1 	F'(x1) 	x2 	F'(x2) 	g1 	g2 	Angle	||grad_f(x)||	||x(k)-x(k-1)||/||(x(k-1)||
+1	 -6817.873931	 17.822335 	589.476365 	0.000000 	1028.329355 	0.000000 	-81.957609 	0.000000	 1185.303188 	 0.000000
+The optimum value of x = ( 17.822335 	0.000000 	
+0.000000 	-81.957609 	)
+#Total number of function evaluations: 9
+
+R value for present sequence is 20000.000000, x0 is : 17.822335 	0.000000 	
+#It	 F(x)	 x1 	F'(x1) 	x2 	F'(x2) 	g1 	g2 	Angle	||grad_f(x)||	||x(k)-x(k-1)||/||(x(k-1)||
+1	 -486.501992	 17.822335 	4242.662605 	0.000000 	-516.706457 	0.000000 	-81.957609 	0.000000	 4274.011177 	 0.000000
+The optimum value of x = ( 17.822335 	0.000000 	
+0.000000 	-81.957609 	)
+#Total number of function evaluations: 9
+
+R value for present sequence is 2.000000, x0 is : 15.000000 	3.000000 	
+#It	 F(x)	 x1 	F'(x1) 	x2 	F'(x2) 	g1 	g2 	Angle	||grad_f(x)||	||x(k)-x(k-1)||/||(x(k-1)||
+1	 -7893.436708	 14.740455 	75.008258 	0.000000 	866.998166 	0.000000 	-18.585559 	0.000000	 870.236783 	 0.196849
+
+Algorithm restart at iteration no. 1
+1	 -7893.436708	 14.740455 	67.483803 	0.000000 	1199.961071 	0.000000 	-18.585559 	0.724498	 1201.857161 	 0.000000
+The optimum value of x = ( 14.740455 	0.000000 	
+0.000000 	-18.585559 	)
+#Total number of function evaluations: 22
+
+R value for present sequence is 20.000000, x0 is : 14.740455 	0.000000 	
+#It	 F(x)	 x1 	F'(x1) 	x2 	F'(x2) 	g1 	g2 	Angle	||grad_f(x)||	||x(k)-x(k-1)||/||(x(k-1)||
+1	 -7893.111118	 14.740455 	68.096279 	0.000000 	1199.610703 	0.000000 	-18.585559 	0.000000	 1201.541902 	 0.000000
+The optimum value of x = ( 14.740455 	0.000000 	
+0.000000 	-18.585559 	)
+#Total number of function evaluations: 9
+
+R value for present sequence is 200.000000, x0 is : 14.740455 	0.000000 	
+#It	 F(x)	 x1 	F'(x1) 	x2 	F'(x2) 	g1 	g2 	Angle	||grad_f(x)||	||x(k)-x(k-1)||/||(x(k-1)||
+1	 -7889.855222	 14.740455 	74.221038 	0.000000 	1196.107019 	0.000000 	-18.585559 	0.000000	 1198.407595 	 0.000000
+The optimum value of x = ( 14.740455 	0.000000 	
+0.000000 	-18.585559 	)
+#Total number of function evaluations: 9
+
+R value for present sequence is 2000.000000, x0 is : 14.740455 	0.000000 	
+#It	 F(x)	 x1 	F'(x1) 	x2 	F'(x2) 	g1 	g2 	Angle	||grad_f(x)||	||x(k)-x(k-1)||/||(x(k-1)||
+1	 -7857.296262	 14.740455 	135.468623 	0.000000 	1161.070180 	0.000000 	-18.585559 	0.000000	 1168.946410 	 0.000000
+The optimum value of x = ( 14.740455 	0.000000 	
+0.000000 	-18.585559 	)
+#Total number of function evaluations: 9
+
+R value for present sequence is 20000.000000, x0 is : 14.740455 	0.000000 	
+#It	 F(x)	 x1 	F'(x1) 	x2 	F'(x2) 	g1 	g2 	Angle	||grad_f(x)||	||x(k)-x(k-1)||/||(x(k-1)||
+1	 -4839.807365	 16.216598 	747.944473 	1.600000 	810.701790 	0.000000 	-33.128865 	0.000000	 1103.022360 	 0.147684
+2	 -4839.807365	 16.216598 	1533.851356 	1.600000 	543.810133 	0.000000 	-33.128865 	11.168175	 1627.399596 	 0.000000
+The optimum value of x = ( 16.216598 	1.600000 	
+0.000000 	-33.128865 	)
+#Total number of function evaluations: 18
+
+R value for present sequence is 200000.000000, x0 is : 16.216598 	1.600000 	
+#It	 F(x)	 x1 	F'(x1) 	x2 	F'(x2) 	g1 	g2 	Angle	||grad_f(x)||	||x(k)-x(k-1)||/||(x(k-1)||
+1	 -5718.448289	 14.623226 	14295.069258 	2.012750 	-3703.018684 	0.000000 	-0.473699 	0.000000	 14766.900570 	 0.101008
+2	 -6132.415780	 14.488151 	235.246243 	1.600000 	911.343062 	0.000000 	-0.798707 	86.366935	 941.215688 	 0.029421
+
+Algorithm restart at iteration no. 2
+1	 -6132.415780	 14.488151 	344.443216 	1.600000 	901.916327 	0.000000 	-0.798707 	1.370827	 965.450252 	 0.000000
+The optimum value of x = ( 14.488151 	1.600000 	
+0.000000 	-0.798707 	)
+#Total number of function evaluations: 31
+
